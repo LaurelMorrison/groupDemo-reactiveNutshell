@@ -2,7 +2,7 @@
 
 ## What is Reactive Nutshell?
 
-Nutshell is an app for people to use to organize their daily tasks, events, news article, friends, and chat messages.
+Nutshell is an app for people to use to organize their daily tasks, events, news articles, friends, and chat messages.
 
 ## Team Members
 
