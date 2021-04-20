@@ -18,7 +18,7 @@ This group project's focus was to learn how to build a website with React. We we
 1. Private messages should be able to be sent directly to a friend, and only they can see it. 
 1. Public messages should be displayed on the dashboard and everyone can read them. 
 
-## My responsibilities
+## My Responsibilities
 
 1. Build the task page with the ability to only see the logged-in user's task.
 1. Be able to edit, delete or mark complete your own tasks.
@@ -30,11 +30,11 @@ This group project's focus was to learn how to build a website with React. We we
 
 <img width="1221" alt="Screen Shot 2021-04-19 at 4 47 03 PM" src="https://user-images.githubusercontent.com/78938657/115434345-97653e00-a1d6-11eb-9c7d-0625e8ab2887.png">
 
-## Homepage view
+## Homepage View
 
 ![Screen Shot 2021-04-20 at 12 49 07 PM](https://user-images.githubusercontent.com/78938657/115434603-e27f5100-a1d6-11eb-9293-584395263a1c.png)
 
-## Setup: Follow these steps exactly
+## Setup: 
 
 1. Clone this repository
 1. `cd` into the directory it creates
@@ -43,7 +43,7 @@ This group project's focus was to learn how to build a website with React. We we
 1. Run `npm install` from the root directory and wait for all dependencies to be installed.
 1. Run `npm start` to verify that installation was successful.
 
-## Mock data
+## Mock Data
 
 ```{
   "users": [
